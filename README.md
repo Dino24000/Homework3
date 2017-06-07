@@ -1,3 +1,3 @@
 # Selenium Assignment 
-i am worked with wish.com site web, and i am tested to get the information of SHOPPING CART , testing conecting with facebook and with gmail and with wish account , i testing to buying something and searsh to something an buy this thing.
+i am worked with wish.com site web, and i am tested to get the information of SHOPPING CART , testing login with facebook and with gmail and with wish account , i testing to buying something and search for something and buy this thing,download picture,check wich language in site, change currancy, login and logout...
 thank you
